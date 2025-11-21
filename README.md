@@ -1,5 +1,5 @@
 # Hi there, I'm Tarcizio! 👋
-### Computer Engineering Student & Front-end Developer
+### Computer Engineering Undergrad (4th Sem) | Software Developer
 
 I'm passionate about creating intuitive visual interfaces and interactive web experiences.
 ---
