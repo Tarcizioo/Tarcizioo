@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9980FA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tarcizio!+%F0%9F%91%8B;Computer+Engineering+Student;Front-end+%26+IoT+Developer;Building+Digital+Experiences" alt="Typing SVG" />
   
   <p align="center">
-    <b>5th Sem. Computer Engineering Student @ Facens</b><br>
-    Passionate about creating intuitive interfaces, and IoT solutions.
+    <b>5th Sem. Computer Engineering Student</b><br>
+    Passionate about creating intuitive interfaces.
   </p>
 </div>
 
